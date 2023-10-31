@@ -1,0 +1,45 @@
+p1{
+  width: 518px; height: 207px; left: 702px; top: 669px; position: absolute; 
+  color: black; font-size: 24px; font-family: Montserrat; font-weight: 400; word-wrap: break-word
+}
+
+p2{
+  width: 518px; height: 245px; left: 156px; top: 287px; position: absolute; 
+  color: black; font-size: 24px; font-family: Montserrat; font-weight: 400; word-wrap: break-word
+}
+
+p3{
+  width: 217px; height: 54px; left: 155px; top: 596px; position: absolute; color:
+   black; font-size: 32px; font-family: Montserrat; font-weight: 700; word-wrap: break-word
+}
+p4{
+  width: 517px; height: 154px; left: 156px; top: 685px; position: absolute; 
+  color: black; font-size: 24px; font-family: Montserrat; 
+  font-weight: 400; word-wrap: break-word
+}
+h1{
+  left: 636px; top: 69px; position: absolute; 
+  color: black; font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word
+}
+p6{
+  left: 155px; top: 219px; position: absolute; 
+  color: black; font-size: 32px; font-family: Montserrat; font-weight: 700; word-wrap: break-word
+}
+
+#picone{
+  width: 249px; height: 191px; left: 694px; top: 219px; position: absolute
+}
+
+#pictwo{
+  width: 249px; height: 191px; left: 694px; top: 436px; position: absolute
+}
+
+#picthree{
+  width: 249px; height: 191px; left: 963px; top: 219px; position: absolute
+}
+
+#picfour{
+  width: 249px; height: 191px; left: 963px; top: 436px; position: absolute
+
+}
+
