@@ -1,0 +1,82 @@
+h1{
+    left: 520px; top: 69px; 
+    position: absolute; color: black; 
+    font-size: 40px; 
+    font-family: 'Inter',sans-serif; 
+    font-weight: 700;
+     word-wrap: break-word
+}
+
+p1{
+    left: 822px; top: 489px; 
+    position: absolute; 
+    color: white; font-size: 36px; 
+    font-family: 'Inter' , sa; 
+    font-weight: 700; word-wrap: break-word
+}
+
+p2{
+    width: 252px; left: 344px; 
+    top: 490px; position: absolute; 
+    color: white; font-size: 36px; 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+header{
+    width: 51.25px; height: 51.25px; 
+    left: 4.37px; top: 4.37px;
+     position: absolute;
+     padding-left: 48px;
+     padding-top: 63px;
+}
+
+#img1{
+    width: 384px; height: 365px; left: 278px; top: 328px; position: absolute; 
+    background: rgba(25.01, 48.06, 53.12, 0.75); border-radius: 10px
+}
+
+
+#img2{
+    width: 384px; height: 365px; 
+    left: 713px; top: 329px; 
+    position: absolute; 
+        background: rgba(25.01, 48.06, 53.12, 0.75); 
+        border-radius: 10px; border: 1px black solid
+}
+
+#backround{
+    width: 384px; height: 365px; left: 278px; top: 328px;
+     position: absolute; 
+    border-radius: 10px
+}
+
+#backround2{
+    width: 384px; height: 365px; 
+    left: 713px; top: 329px; 
+    position: absolute; 
+        border-radius: 10px; 
+        border: 1px black solid
+}
+
+body {
+    background-image: url(/images/complaintbg.svg);
+    background-repeat: none;
+    background-size: cover;
+  }
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  input[type='image']{
+    position: absolute;
+    left: 48px;
+    top: 63px;
+    width: 51.25px;
+    height: 51.25px;
+  }

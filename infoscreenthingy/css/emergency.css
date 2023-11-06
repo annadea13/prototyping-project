@@ -1,0 +1,65 @@
+.EMERGENCY{
+	width: 1366px; 
+	height: 1024px; 
+	position: relative; 
+	background: white;
+}
+h1{
+	left: 555px; 
+	top: 69px; 
+	position: absolute; 
+	color: black; 
+	font-size: 40px; 
+	font-family: 'Inter'; 
+	font-weight: 700;
+	text-align: center;
+}
+input[type='image'] {
+	width:51.25px;
+	height:51.25px;
+	position: absolute;
+	left: 52.37px; 
+	top: 67.37px;
+ }
+.all{
+	padding-top: 277px;
+}
+ .container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+ }
+ .container2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+ }
+ .card{
+	background-color: rgba(50.17, 170.38, 196.76, 0.30);
+	width: 384px;
+	height: 271px;
+	margin: 27px;
+	text-align: center;
+	border-radius: 15px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ }
+ h2{
+	color: black; 
+	font-size: 34px; 
+	font-family: Inter; 
+	font-weight: 700;
+ }
+ .phone{
+	color: black; 
+	font-size: 28px; 
+	font-family: Inter; 
+	font-weight: 550; 
+ }
+ p{
+	color: black; 
+	font-size: 20px; 
+	font-family: 'Montserrat', sans-serif; 
+	font-weight: 500; 
+	padding-left: 24px;
+	padding-right: 24px;
+ }
