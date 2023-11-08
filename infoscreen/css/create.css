@@ -1,0 +1,131 @@
+h1 {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 220px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+}
+
+.header{
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+input[type='image']{
+    position: absolute;
+    left: 48px;
+    top: 63px;
+    width: 51.25px;
+    height: 51.25px;
+}
+
+#back{
+    position: absolute;
+    left: 1268px;
+    top: 63px;
+    width: 38px;
+    height: 43px;
+}    
+
+
+#text {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-left: 220px;
+    width: 570px;
+    height: 71px;
+    border-color: #d9d9d9;
+    border-radius: 8px;
+    border-width: 2px;
+}
+
+#time {
+    font-size: 24px;
+    margin-top: 31px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+    border-color: #d9d9d9;
+    border-radius: 8px;
+    border-width: 2px;
+    border: solid;
+    height:fit-content;
+}
+
+#loc {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-left: 220px;
+    width: 570px;
+    height: 71px;
+    border-color: #d9d9d9;
+    border-radius: 8px;
+    border-width: 2px;
+}
+
+#desc {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-left: 220px;
+    margin-right: 147px;
+    width: 900px;
+    height: 176px;
+    border-color: #d9d9d9;
+    border-radius: 8px;
+    border-width: 2px;
+}
+
+button {
+    margin-left: 220px;
+    border-radius: 34px;
+    height: 66px;
+    width: 176px;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    background-color: #32AAC5;
+    color: white;
+    border: solid;
+    border-color: #32AAC5;
+    border-width: 2px;
+}
+
+button:active {
+    background-color: white;
+    color: #32AAC5;
+    transition: 0.2s;
+    border: solid;
+    border-color: #32AAC5;
+    border-width: 2px;
+}
+
+
+#dropdown {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-left: 220px;
+    width: 575px;
+    height: 71px;
+    border-color: #d9d9d9;
+    border-radius: 8px;
+    border-width: 2px;
+}
+
+#flex{
+    display: flex;
+}

@@ -1,0 +1,257 @@
+h1{
+    left: 455px; 
+    top: 69px;
+    position: absolute; 
+    color: black; 
+    font-size: 50px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+  }
+  
+  header {
+    left: 77px; 
+    top: 40px; 
+    position: absolute; 
+    color: black; 
+     font-size: 26px; 
+     font-family: 'Montserrat', bold;
+     font-weight: 700; 
+     word-wrap: break-word
+  }
+  
+  p1{
+    left: 364px; 
+    top: 341px;
+     position: absolute; 
+     color: white; 
+     font-size: 25px; 
+     font-family: 'Montserrat', bold;
+     font-weight: 700; 
+     word-wrap: break-word
+  }
+  p2{
+    left: 917px; 
+    top: 341px;
+     position: absolute; 
+    color: white; 
+    font-size: 25px; 
+    font-family: 'Montserrat', bold;
+    font-weight: 700;
+     word-wrap: break-word
+  }
+  p3{
+    left: 183px; 
+    top: 711px;
+     position: absolute; 
+    color: white; 
+    font-size: 25px; 
+    font-family: 'Montserrat', bold;
+    font-weight: 700; 
+    word-wrap: break-word
+  }
+  p4{width: 242px; 
+    height: 77px; 
+    left: 423px; 
+    top: 697px; 
+    position: absolute;
+     text-align: center; 
+    color: white; 
+    font-size: 25px;
+    font-family: 'Montserrat', bold;
+    font-weight: 700;
+     word-wrap: break-word
+  }
+  p5{
+    
+    left: 985px; 
+    top: 711px;
+     position: absolute; 
+    color: white;
+     font-size: 25px; 
+     font-family: 'Montserrat', bold;
+     font-weight: 700; 
+     word-wrap: break-word
+  }
+  
+  p6{left: 637px; 
+    top: 341px; 
+    position: absolute; 
+    color: white; 
+    font-size: 25px; 
+    font-family: 'Montserrat', bold;
+    font-weight: 700;
+     word-wrap: break-word
+  }
+  
+  p7{
+    left: 760px; 
+    top: 711px; 
+    position: absolute; 
+    color: white; 
+    font-size: 25px; 
+    font-family: 'Montserrat', bold;
+    font-weight: 700; 
+    word-wrap: break-word
+  }
+  
+  #earth{
+    width:40px;
+    height:40px;
+    justify-content: center;
+    padding-top: 50px;
+          text-align: center;
+          font-family: 'Montserrat', bold;
+          font-size: 26px
+  }
+  
+  
+  
+  
+  #Facilities{
+    width: 249px;
+     height: 244px; 
+     left: 693px; 
+     top: 604px; 
+    position: absolute; 
+    border-radius: 10px
+  }
+  
+  #cleaning{
+    width: 249px; 
+    height: 244px; 
+    left: 298px; 
+    top: 234px; 
+    position: absolute; 
+    
+     border-radius: 10px
+  }
+  
+  #laundry{
+    width: 249px; 
+    height: 244px; 
+    left: 568px; 
+    top: 234px;
+     position: absolute; 
+   
+    border-radius: 10px
+  }
+  #events{
+    width: 250px; 
+    height: 244px; 
+    left: 837px; 
+    top: 234px; 
+    position: absolute; 
+    border-radius: 10px
+  }
+  
+  #complaint{
+    width: 249px; 
+    height: 244px;
+     left: 155px; 
+     top: 604px; 
+     position: absolute; 
+    background: rgba(25.01, 48.06, 53.12, 0.75); 
+    border-radius: 10px
+  }
+  
+  #emergency{
+    width: 249px; 
+    height: 244px; 
+    left: 424px;
+     top: 604px; 
+     position: absolute;
+    
+     border-radius: 10px
+  }
+  
+  #announcement{
+    width: 249px; 
+    height: 244px; 
+    left: 962px;
+     top: 604px;
+      position: absolute; 
+    
+      border-radius: 10px
+  }
+  
+  #cleaning101{
+    width: 249px; 
+    height: 244px; 
+    left: 298px; 
+    top: 234px;
+    position: absolute; 
+    background: rgba(25.01, 48.06, 53.12, 0.75);
+     border-radius: 10px
+  }
+  
+  #events101{
+    width: 250px; 
+    height: 244px; 
+    left: 837px; 
+    top: 234px;
+     position: absolute; 
+     background: rgba(25.01, 48.06, 53.12, 0.75); 
+     border-radius: 10px
+  }
+  
+  #emergency101{
+    width: 249px; 
+    height: 244px;
+     left: 424px; 
+     top: 604px; 
+    position: absolute; 
+    background: rgba(25.01, 48.06, 53.12, 0.75); 
+    border-radius: 10px
+  }
+  
+  #announcement101{
+    width: 249px; 
+    height: 244px; 
+    left: 962px; 
+    top: 604px;
+     position: absolute; 
+     background: rgba(25.01, 48.06, 53.12, 0.75); 
+     border-radius: 10px
+  }
+  
+  #laundry101{
+    width: 249px; 
+    height: 244px;
+     left: 568px; 
+    top: 234px; 
+    position: absolute; 
+    background: rgba(25.01, 48.06, 53.12, 0.75); 
+    border-radius: 10px
+  }
+  
+  #facilities101{
+    width: 249px; 
+    height: 244px;
+     left: 693px;
+      top: 604px;
+     position: absolute; 
+     background: rgba(25.01, 48.06, 53.12, 0.75); 
+     border-radius: 10px
+  }
+  
+  #complaint101{
+    width: 249px; 
+    height: 244px;
+     left: 155px; 
+     top: 604px; 
+     position: absolute; 
+    background: rgba(25.01, 48.06, 53.12, 0.75); 
+    border-radius: 10px
+  }
+  
+  p8{
+    font-family: 'Montserrat', bold;
+    font-weight: 700; 
+  }
+
+  body {
+    background-image: url(/images/indexbg.svg);
+    background-repeat: none;
+    background-size: cover;
+  }

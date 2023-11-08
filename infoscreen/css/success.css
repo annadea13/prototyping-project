@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+  margin-top: 90px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+}
+
+.center {
+  margin-top: 230px;
+  margin-left: 450px;
+  width: 35%;
+}
+
+img{
+  width: 5%;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type='image']{
+  position: absolute;
+  left: 48px;
+  top: 63px;
+  width: 51.25px;
+  height: 51.25px;
+}

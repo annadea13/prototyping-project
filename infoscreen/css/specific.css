@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+}
+
+.header {
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input[type='image'] {
+    position: absolute;
+    left: 48px;
+    top: 63px;
+    width: 51.25px;
+    height: 51.25px;
+}
+
+#back {
+    position: absolute;
+    left: 1268px;
+    top: 63px;
+    width: 38px;
+    height: 43px;
+}
+
+#text {
+    display: block;
+    margin: auto;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 1049px;
+    height: 517px;
+    border-color: #d9d9d9;
+    border-radius: 8px;
+    border-width: 2px;
+    margin-top: 110px;
+}
+
+button {
+    font-family: inter;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 17px 64px;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    color: #F6F6F6;
+    background-color: #3CAEC6;
+}
+
+.sendButton {
+    text-align: center;
+    margin-top: 50px;
+}

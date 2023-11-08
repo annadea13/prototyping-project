@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Create Announcement</title>
+  <link rel="stylesheet" href="css/create.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+
+
+<body>
+
+  <div class="header">
+    <a href="index.html"><input type="image" id="image" src="images/home.svg"></a>
+    <a href="announcements.html"><input type="image" id="back" src="images/backarrow.svg"></a>
+
+  <h1>CREATE ANNOUNCEMENT</h1>
+</div>
+
+  <br><br>
+
+  <h2>Announcement Title</h2>
+
+  <textarea id="text" name="title" rows="4" cols="50" placeholder="What is this announcement called?"></textarea>
+  <br>
+
+
+  <h2>Category</h2>
+
+  <select name="dropdown" id="dropdown">
+    <option value="1">General</option>
+    <option value="2">Cleaning</option>
+    <option value="3">Maintenance</option>
+    <option value="3">Lost and Found</option>
+    <option value="4">Other</option>
+  </select>
+
+
+  <h2>Description</h2>
+  <textarea id="desc" name="title" placeholder="What do you want people to know?" rows="4" cols="50"></textarea>
+  <br>
+
+
+
+  <br>
+
+  <a href="success.html"><button>Create</button></a>
+
+  <script src="js/js.js"></script>
+</body>
+
+</html>

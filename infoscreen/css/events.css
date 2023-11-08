@@ -1,0 +1,161 @@
+.card {
+  margin-top: 28px;
+  margin-left: 163px;
+  margin-right: 163px;
+  width: 1040px;
+  height: 94px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #d9d9d9;
+  border-radius: 8px;
+  padding-left: 50px;
+  background-color: #fff;
+  width: 1040px;
+  height: 94px;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.header{
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type='image']{
+  position: absolute;
+  left: 48px;
+  top: 63px;
+  width: 51.25px;
+  height: 51.25px;
+}
+
+
+
+
+h2 {
+  text-align: right;
+  margin-right: 200px;
+  margin-top: 40px;
+  font-family: 'Inter', sans-serif;
+}
+
+.flex{
+  display: flex;
+  line-height: 6px;
+}
+
+#eventdesc{
+  margin-left: 40px;
+}
+
+
+/*event title and event description*/
+h4 {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+
+#dropdown {
+  font-size: 10px;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-left: 1180px;
+  width: 5px;
+  height: 20px;
+  border: none;
+}
+
+
+/* Button */
+.button-plus {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background: #fff;
+  cursor: pointer;
+  border: 2px solid #32AAC5;
+  border-radius: 20px;
+  margin-left: 510px;
+  margin-right: 163px;
+  top: 86.5%;
+  left: 48.5%;
+}
+
+.button-plus:after {
+  content: '';
+  position: absolute;
+  transform: translate(-50%, -50%);
+  height: 4px;
+  width: 50%;
+  background: #32AAC5;
+  border-radius: 20px;
+  top: 50%;
+  left: 50%;
+}
+
+.button-plus:before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #32AAC5;
+  border-radius: 20px;
+  height: 50%;
+  width: 4px;
+}
+
+.button-plus:active:before,
+.button-plus:active:after {
+  background: #fff;
+  transition: 0.2s;
+}
+
+.button-plus:active {
+  background-color: #32AAC5;
+  transition: 0.2s;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+/*
+body{
+  background-image: url(/images/topright.svg);
+  background-repeat: no-repeat;
+  background-size: 587.5px 331.23px;
+  background-position: top right;
+}
+*/
+
+body{
+  background-image: url(/images/bgevents.svg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
